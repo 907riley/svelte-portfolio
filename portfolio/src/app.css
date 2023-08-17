@@ -87,6 +87,7 @@ h1 {
     text-align: center;
     opacity: 35%;
 }
+
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 600px) {
     :root {
@@ -110,14 +111,14 @@ h1 {
 
 
 /* @media (prefers-color-scheme: light) {
-  :root {
-    color: #213547;
-    background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+    :root {
+        color: #213547;
+        background-color: #ffffff;
+    }
+    a:hover {
+        color: #747bff;
+    }
+    button {
+        background-color: #f9f9f9;
+    }
 } */
