@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { Router, Link, Route } from 'svelte-routing'
+    import { Router, Route } from 'svelte-routing'
 
     import NavBar from "./NavBar.svelte";
     import Projects from './pages/Projects.svelte';
