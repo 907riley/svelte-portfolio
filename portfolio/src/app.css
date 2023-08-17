@@ -88,6 +88,20 @@ h1 {
     opacity: 35%;
 }
 
+a {
+    text-decoration: none;
+
+    &:hover {
+        color: rgb(201, 41, 143);
+        text-decoration: underline;
+    }
+}
+
+.image-caption {
+    opacity: 35%;
+    font-size: .75rem;
+}
+
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 600px) {
     :root {
