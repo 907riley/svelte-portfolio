@@ -1,23 +1,32 @@
 <script lang="ts">
-    import { Link } from "svelte-routing";
+    import { link } from "svelte-routing";
+    import Boat from "./Boat.svelte";
+    import { onMount } from "svelte";
+
+    const boatImages = {
+        resting: "fisherman_static.gif",
+        pullback: 'fisherman_pullback.gif',
+        cast: 'fisherman_cast.gif'
+    }
+
 </script>
 
 <nav class="nav-container">
-    clouds live here
     <ul class="button-wrapper">
         <li class="nav-button-wrapper">
-            <Link to='/'>Home</Link>
+            <a href='/' class="nav-button" use:link>Home</a>
         </li>
         <li class="nav-button-wrapper">
-            <Link to='/about'>About</Link>
+            <a href='/about' class="nav-button" use:link>About</a>
         </li>
         <li class="nav-button-wrapper">
-            <Link to='/projects'>Projects</Link>
+            <a href='/projects' class="nav-button" use:link>Projects</a>
         </li>
         <li class="nav-button-wrapper">
-            <Link to='/resume'>Resume</Link>
+            <a href='/resume' class="nav-button" use:link>Resume</a>
         </li>
     </ul>
+    <Boat boatImg={boatImages.resting}/>
 </nav>
 
 <style lang="scss">
@@ -32,6 +41,11 @@
             margin: 1rem;
             z-index: 10;
             flex: none;
+            font-weight: bold;
+            
+            .nav-button {
+                text-decoration: none;
+            }
         }
     }
 </style>

@@ -102,10 +102,14 @@ a {
     font-size: .75rem;
 }
 
-/* Large devices (laptops/desktops, 992px and up) */
-@media only screen and (min-width: 600px) {
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 992px) {
     :root {
         font-size: 1.25rem;
+    }
+
+    .fisherman-wrapper {
+        display: none;
     }
 }
 
@@ -113,6 +117,11 @@ a {
 @media only screen and (min-width: 992px) {
     :root {
         font-size: 1.5rem;
+    }
+
+    
+    .fisherman-wrapper {
+        display: block;
     }
 }
 
