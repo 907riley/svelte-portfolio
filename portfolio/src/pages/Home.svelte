@@ -10,9 +10,9 @@
     <p class="paragraph-wrapper">
         I decided that I wanted to dig into some personal projects that I had complete control over. I've been spending my time working on multiple fun projects ranging from websites to video games that you can check out on my projects page.
     </p>
-    <p class="paragraph-wrapper">
+    <!-- <p class="paragraph-wrapper">
         This website looks and performs fine on mobile, but I highly recommend viewing it on a laptop or desktop screen. I incorporated some pixel art into the larger screen designs that adds a lot of character to it.
-    </p>
+    </p> -->
 
 </div>
 
