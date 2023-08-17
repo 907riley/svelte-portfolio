@@ -5,16 +5,16 @@
 <nav class="nav-container">
     clouds live here
     <ul class="button-wrapper">
-        <li class="link-wrapper">
+        <li class="nav-button-wrapper">
             <Link to='/'>Home</Link>
         </li>
-        <li class="link-wrapper">
+        <li class="nav-button-wrapper">
             <Link to='/about'>About</Link>
         </li>
-        <li class="link-wrapper">
+        <li class="nav-button-wrapper">
             <Link to='/projects'>Projects</Link>
         </li>
-        <li class="link-wrapper">
+        <li class="nav-button-wrapper">
             <Link to='/resume'>Resume</Link>
         </li>
     </ul>
@@ -28,7 +28,7 @@
         justify-content: center;
         justify-content: space-evenly;
 
-        .link-wrapper {
+        .nav-button-wrapper {
             margin: 1rem;
             z-index: 10;
             flex: none;

@@ -2,7 +2,7 @@
     <div class="content-wrapper">
         <div>
             <h1>Dunk</h1>
-            <p class="worked-on-wrapper">August 2023</p>
+            <p class="worked-date-wrapper">August 2023</p>
         </div>
         <div class="images-wrapper">
             <img src='/dunk_main_menu.png' alt='dunk main menu scene'/>
@@ -26,7 +26,7 @@
     <div class="content-wrapper">
         <div>
             <h1>Job Hunt Tracker</h1>
-            <p class="worked-on-wrapper">July 2023 - Present</p>
+            <p class="worked-date-wrapper">July 2023 - Present</p>
         </div>
         <div class="images-wrapper">
             <img src='/job_hunt_tracker_view.PNG' alt='job hunt tracker main view'/>
@@ -52,7 +52,7 @@
     <div class="content-wrapper">
         <div>
             <h1>Jig</h1>
-            <p class="worked-on-wrapper">July 2023</p>
+            <p class="worked-date-wrapper">July 2023</p>
         </div>
         <div class="images-wrapper">
             <img src='/jig.gif' alt='jig logo'/>
@@ -76,7 +76,7 @@
     <div class="content-wrapper">
         <div>
             <h1>Portfolio</h1>
-            <p class="worked-on-wrapper">May 2023 - Present</p>
+            <p class="worked-date-wrapper">May 2023 - Present</p>
         </div>
         <div class="images-wrapper">
             <img id='svelte-logo-wrapper' src='/svelte_logo.png' alt='jig logo'/>
@@ -100,13 +100,6 @@
 
     #svelte-logo-wrapper {
         width: 10rem;
-    }
-
-    .link-wrapper {
-        width: 100%;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-around;
     }
 
     .description-list-wrapper {
