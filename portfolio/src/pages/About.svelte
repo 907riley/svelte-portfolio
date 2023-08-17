@@ -1,6 +1,6 @@
 <div>
     <div class="content-wrapper">
-        <img id="headshot"  src="/cropped_grad_headshot.png" alt="Graduation Headshot"/>
+        <img id="headshot"  src="/reduced_cropped_grad_headshot.jpg" alt="Graduation Headshot"/>
         <p class="paragraph-wrapper">
             I grew up in Juneau, AK until moving to Spokane, WA to pursue a computer science degree at Gonzaga University. I attribute my interest in programming to my involvement in the FIRST robotics programs starting in elementary school, culminating in my senior year in high school where my team won our state competition to qualify for the worlds competition in Houston, TX. I was never a programmer in robotics so I always thought I wanted to be an engineer until I took an AP computer science course my senior year of high school. After taking that class I knew I wanted to learn more. 
         </p>
