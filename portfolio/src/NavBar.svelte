@@ -30,21 +30,26 @@
 </nav>
 
 <style lang="scss">
-    .button-wrapper {
-        list-style: none;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        justify-content: space-evenly;
 
-        .nav-button-wrapper {
-            margin: 1rem;
-            z-index: 10;
-            flex: none;
-            font-weight: bold;
+    .nav-container {
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        .button-wrapper {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
             
-            .nav-button {
-                text-decoration: none;
+            .nav-button-wrapper {
+                margin: 1rem;
+                z-index: 10;
+                font-weight: bold;
+                .nav-button {
+                    text-decoration: none;
+                }
             }
         }
     }
