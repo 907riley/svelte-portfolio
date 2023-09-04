@@ -22,7 +22,7 @@
         </p>
     </div>
 </div>
-
+    
 <style lang="scss">
     #headshot {
         width: 20rem;
