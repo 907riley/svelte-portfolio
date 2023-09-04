@@ -11,7 +11,3 @@
         I decided that I wanted to dig into some personal projects that I had complete control over. I've been spending my time working on multiple fun projects ranging from websites to video games that you can check out on my projects page.
     </p>
 </div>
-
-<style lang="scss">
-
-</style>

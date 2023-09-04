@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+        <meta charset="UTF-8" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Genos:wght@400;600;700&family=League+Spartan:wght@200;400;600;900&display=swap" rel="stylesheet">
+        <link rel="icon" type="image/svg+xml" href="/logo.png" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Riley Sikes</title>
+		%sveltekit.head%
+		<style>
+
+			*, *::before, *::after {
+				box-sizing: border-box;
+			}
+
+			* {
+				margin: 0;
+
+			}
+
+			:root {
+				font-family: 'Genos', sans-serif;
+				font-family: 'League Spartan', sans-serif;
+				background-color: #05041a;
+				color: white;
+				--link-active-hover: rgb(201, 41, 143);
+				overflow-y: scroll;
+			}
+			body {
+				line-height: 1.5;
+				-webkit-font-smoothing: antialiased;
+
+				margin: 0;
+				display: flex;
+				place-items: center;
+				min-height: 100vh;
+			}
+
+			img, picture, video, canvas, svg {
+				display: block;
+				max-width: 100%;
+			}
+
+			input, button, textarea, select {
+				font: inherit;
+			}
+
+			p, h1, h2, h3, h4, h5, h6 {
+				overflow-wrap: break-word;
+			}
+		</style>
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents">%sveltekit.body%</div>
+	</body>
+</html>
