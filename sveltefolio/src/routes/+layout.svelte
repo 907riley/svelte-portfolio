@@ -1,6 +1,7 @@
 <script lang="ts">
     import { page } from '$app/stores'
     import Boat from './Boat.svelte';
+    import SideBar from './SideBar.svelte';
     import '../app.css'
 
     const boatImages = {
@@ -27,9 +28,8 @@
             </div>
         </div>
         <Boat boatImg={boatImages.resting}/>
-
     </nav>
-    
+    <SideBar/>
     <slot/>
 </main>
 
@@ -40,7 +40,6 @@
         flex-direction: column;   
         align-items: center;
         .button-wrapper {
-            display: flex;
             width: 50%;
             flex-direction: row;   
             justify-content: center;  

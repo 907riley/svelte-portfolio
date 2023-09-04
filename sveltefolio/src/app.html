@@ -21,13 +21,18 @@
 			}
 
 			:root {
+				--dark-background: #05041a;
+				--link-inactive: rgb(82, 16, 153);
+				--link-active-hover: rgb(201, 41, 143);
+				--side-bar-width: 10rem;
 				font-family: 'Genos', sans-serif;
 				font-family: 'League Spartan', sans-serif;
-				background-color: #05041a;
+				background-color: var(--dark-background);
 				color: white;
-				--link-active-hover: rgb(201, 41, 143);
 				overflow-y: scroll;
+				overflow-x: hidden;
 			}
+
 			body {
 				line-height: 1.5;
 				-webkit-font-smoothing: antialiased;
@@ -49,6 +54,12 @@
 
 			p, h1, h2, h3, h4, h5, h6 {
 				overflow-wrap: break-word;
+			}
+
+			button {
+				border: 0;
+				padding: 0;
+				background: transparent;
 			}
 		</style>
 	</head>
