@@ -26,7 +26,7 @@
             <span class="menu-text">About</span>
         </a>
         
-        <a on:click={() => is_expanded.set('false')} href='/projects' class={$page.url.pathname === '/projects' ? "current-route menu-button" : "inactive-route menu-button"}>
+        <a on:click={() => is_expanded.set('false')} href='/projects/past' class={$page.url.pathname === '/projects/past' || $page.url.pathname === '/projects/current' ? "current-route menu-button" : "inactive-route menu-button"}>
             <span class="menu-text">Projects</span>
         </a>
         

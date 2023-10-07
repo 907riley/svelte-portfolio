@@ -69,7 +69,7 @@ a {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 992px) {
     :root {
-        font-size: 20px;
+        font-size: 16px;
     }
 
     .content-wrapper {
@@ -92,7 +92,7 @@ a {
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 993px) {
     :root {
-        font-size: 24px;
+        font-size: 20px;
     }
 
     
@@ -112,7 +112,7 @@ a {
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
     :root {
-        font-size: 32px;
+        font-size: 26px;
     }
 
     .fisherman-wrapper {
