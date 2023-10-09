@@ -24,8 +24,9 @@
     }
 
     .one-liner-wrapper {
-        font-size: .5rem;
+        font-size: .75rem;
         font-style: italic;
+        opacity: 50%;
     }
 
 

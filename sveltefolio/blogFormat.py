@@ -29,6 +29,8 @@ for index, row in df.iterrows():
         <p class="paragraph-wrapper">
             {para}
         </p>"""
+        temp += """
+        <div></div>"""
     temp += f"""
     </div>
     <div class="divider-line"></div>
