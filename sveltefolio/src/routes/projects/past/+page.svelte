@@ -61,7 +61,7 @@
         <a href='https://granitebouldergames.itch.io/jig'>Itch.io</a>
         <ul class="description-list-wrapper">
             <li>
-                Built with Godot for a 48 hour game jame with a friend. I made most of the artwork with Aseprite.
+                Built with Godot for a 48 hour game jame with a friend. Made a lot of the artwork with Aseprite.
             </li>
             <li>
                 Created a pixel art rhythm fishing game that shuffled through random songs and difficulties.

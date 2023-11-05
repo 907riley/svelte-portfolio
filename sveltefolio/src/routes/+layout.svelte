@@ -21,7 +21,7 @@
                 <a href='/about' class={$page.url.pathname === '/about' ? "current-route" : "inactive-route"}>About</a>
             </div>
             <div class="nav-button-wrapper">
-                <a href='/projects/current' class={$page.url.pathname === '/projects/current' || $page.url.pathname === '/projects/current' ? "current-route" : "inactive-route"}>Projects</a>
+                <a href='/projects/current' class={$page.url.pathname === '/projects/current' || $page.url.pathname === '/projects/past' ? "current-route" : "inactive-route"}>Projects</a>
             </div>
             <div class="nav-button-wrapper">
                 <a href='/resume' class={$page.url.pathname === '/resume' ? "current-route" : "inactive-route"}>Resume</a>
