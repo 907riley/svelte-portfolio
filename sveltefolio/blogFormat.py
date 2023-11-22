@@ -8,6 +8,7 @@ def convert_date(date):
 
 df = pd.read_csv('All Dev Blogs - Sheet1.csv')
 df.reset_index()
+df = df[::-1]
 
 print(df.columns.values)
 html_text = ""
@@ -34,7 +35,8 @@ for index, row in df.iterrows():
     temp += f"""
     </div>
     <div class="divider-line"></div>
-</div>"""
+</div>
+"""
     html_text += temp
 
 
