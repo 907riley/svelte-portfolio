@@ -11,13 +11,20 @@ df.reset_index()
 df = df[::-1]
 
 print(df.columns.values)
-html_text = ""
+html_text = """<main>
+"""
 for index, row in df.iterrows():
     temp = f"""<div class="content-wrapper">
     <div class="date-wrapper">
         {convert_date(row["Date"])}
     </div>
-    <div class="one-liner-wrapper">
+    """
+    if not pd.isnull(row["Image Path"]):
+        temp += f"""<div class="images-wrapper">
+        <img src="{row["Image Path"]}" alt='Devlog progess'/>
+    </div>
+    """
+    temp += f"""<div class="one-liner-wrapper">
         {row["One Liner"]}
     </div>
     <div class="meat-wrapper">"""
@@ -38,6 +45,8 @@ for index, row in df.iterrows():
 </div>
 """
     html_text += temp
+
+html_text += "</main>"
 
 
 f = open("htmlblog.txt", "w", encoding="utf8")

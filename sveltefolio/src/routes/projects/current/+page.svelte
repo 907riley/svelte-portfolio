@@ -3,6 +3,9 @@
         <div class="date-wrapper">
             November 22, 2023
         </div>
+        <div class="images-wrapper">
+            <img src="/show_off_Nov_2023.png" alt='Devlog progess'/>
+        </div>
         <div class="one-liner-wrapper">
             Damn this IK has hands, wait no it doesn’t…
         </div>
@@ -40,8 +43,8 @@
             <div></div>
         </div>
         <div class="divider-line"></div>
-    </div>    
-</main>
+    </div>
+    </main>
 
 <style lang="scss">
     .date-wrapper {
