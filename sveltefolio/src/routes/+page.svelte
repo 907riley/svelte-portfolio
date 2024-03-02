@@ -5,25 +5,26 @@
         <p>907riley@gmail.com</p> 
     </div>
     <p class="paragraph-wrapper">
-        Summer is over and the best part of the year is officially here: fall. I didn’t always have this opinion though, as fall growing up in Juneau consisted of non stop rain, wind warnings, and barely any leaves (most of the trees are coniferous). So when I first got to experience fall in Spokane (after the way too hot summers we get here), I was pleasantly surprised. Fall is also home to the best holiday: Halloween. I’m a big horror movie fan and there is no better time to watch some spooky movies than during fall in October. 
+        First update of the new year! I recently decided to chop my hair that I’d been growing out for almost two years. My goal was to be able to put it back into a ponytail and I achieved that which was fun, but I started to quickly get tired of it getting in the way. It also took forever to air dry after showering. So now I have my normal short hair back and it feels so much better.
     </p>
     <p class="paragraph-wrapper">
-        On top of it being the best time of the year, I finally got a job. I accepted a job as a Systems Test Engineer at Itron where I’ve been learning how to work with different IoT devices. There’s definitely a learning curve with the size of the solution, but I will get to learn a lot about networking which is awesome. So far I’ve been really enjoying it and I’m very grateful for the opportunity during a time when the job market seems so dull. I also just got two kittens which has been so fun. They don’t always make the best decision, like sneaking up behind and jumping in the toilet when I’m going to the bathroom or coming to the conclusion that my bare legs would make good climbing material, but we still love them.
+        In terms of game development, I decided to drop or at least put my Show Off game on hold. I was getting quite frustrated working on it and it became a lot less enjoyable to work on. Someone else released a very similar game to what I had envisioned which was a little demoralizing. I can see myself picking it back up one day when I have more experience working with the Godot engine and 3D in general, but for now it is sidelined. I am working on a new project with a friend that we intend on releasing on Steam at some point. I might post some stuff about it at some point, but for now I’m going to leave it at that.
     </p>
-    <img id="sleepy-cats" src="cats_sleepy.jpeg" alt="sleepy cats"/>
-    <p class="image-caption">They sleep a lot</p>
     <p class="paragraph-wrapper">
-        In terms of game development, I’m currently working on a small and large project. I was originally just working on my large project, but I decided that I should try to make a smaller game to get more comfortable with Godot and the game development process before diving head first into a multi-year long project. The large project (which I’m purposely not mentioning the idea yet), is a game that I view as my perfect game that combines aspects of all my favorite games. It’s definitely become a victim to a bit of scope creep and I’ve done my best to restrain that, but I think it's best that I give that idea more time to simmer. The smaller project on the other hand is a game that I’m calling Show Off for now. The idea of the game is a 3rd person speed climbing game where the player has to control just the characters hands and arms to climb a rock wall as fast as they can. The player won’t be able to use the characters legs because they’re a bit of a show off. 
+        Here’s some more cat pictures. Enjoy.
     </p>
-    <img id="title-drawing" src="show_off_title_drawing.jpeg" alt="initial title drawing of show off"/>
-    <p class="image-caption">An initial mock up I did of the title screen for Show Off</p>
+    <img id="toby-nose" src="toby_nose.jpeg" alt="Toby Nose"/>
+    <p class="image-caption">Toby</p>
+    <img id="nim-eyes" src="nim_eyes.jpeg" alt="Nimbus Eyes"/>
+    <p class="image-caption">Nimbus</p>
     <p class="paragraph-wrapper">
         I’m going to be doing some dev logs under the Projects/Current pages, so go read about it to learn what I’ve been working on.
     </p>
 </div>
 
 <style lang="scss">
-    #sleepy-cats,
+    #nim-eyes,
+    #toby-nose,
     #title-drawing {
         width: 20rem;
     }
