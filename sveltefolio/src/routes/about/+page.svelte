@@ -5,7 +5,7 @@
             I grew up in Juneau, AK until moving to Spokane, WA to pursue a computer science degree at Gonzaga University. I attribute my interest in programming to my involvement in the FIRST robotics programs starting in elementary school, culminating in my senior year in high school where my team won our state competition to qualify for the worlds competition in Houston, TX. I was never a programmer in robotics so I always thought I wanted to be an engineer until I took an AP computer science course my senior year of high school. After taking that class I knew I wanted to learn more. 
         </p>
         <p class="paragraph-wrapper">
-            I graduated May 2023 with a B.S in Computer Science along with a Minor in Mathematics. I'm currently still living in Spokane, enjoying my free time working on some projects while I search for a job.
+            I graduated May 2023 with a B.S in Computer Science along with a Minor in Mathematics. I recently moved to Woodinville, WA with my girlfriend in April of 2024 for her job. Currently I'm spending my time applying to jobs and working on a game project with a friend.
         </p>
     </div>
     <div class="content-wrapper">
@@ -18,7 +18,7 @@
         <img id="laying-out" src="ultimate.gif" alt="Video of me playing ultimate"/>
         <p class="image-caption">Actual footage of me bidding while playing ultimate</p>
         <p class="paragraph-wrapper">
-            Outside of programming, I spend a lot of my time playing ultimate frisbee, disc golfing, and in the gym. I recently joined a club Ultimate team in Spokane that I am stoked about and I've been getting in some casual disc golf as a break from working on my projects. I also enjoy playing video games occasionally, but I haven't had much time lately for them. Some of my all time favorite games are Pokemon (specifically gen 4 and 5), Stardew Valley, Minecraft, Dredge, The Forest, and Rock Band.
+            Outside of programming, I spend a lot of my time playing ultimate frisbee, disc golfing, and in the gym. I've been getting in some casual disc golf as a break from working on my projects. I also enjoy playing video games occasionally, but I haven't had much time lately for them. Some of my all time favorite games are Pokemon (specifically gen 4 and 5), Stardew Valley, Minecraft, Dredge, Helldivers II, The Forest, and Rock Band.
         </p>
     </div>
 </div>

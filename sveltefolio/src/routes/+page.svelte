@@ -5,10 +5,10 @@
         <p>907riley@gmail.com</p> 
     </div>
     <p class="paragraph-wrapper">
-        First update of the new year! I recently decided to chop my hair that I’d been growing out for almost two years. My goal was to be able to put it back into a ponytail and I achieved that which was fun, but I started to quickly get tired of it getting in the way. It also took forever to air dry after showering. So now I have my normal short hair back and it feels so much better.
+        It’s official, my girlfriend and I have moved to the Seattle area for an amazing job opportunity she was offered. Moving over here in the future was an idea we had played around with, but always thought it would happen in 5 years or so, not months. But when an opportunity like this one presents itself, sometimes it’s best to get out of your comfort zone and hold on for the ride (this also sums up my experience driving a packed uhaul across the state on the subpar roads). So far we have both been loving our new place and the surrounding area.
     </p>
     <p class="paragraph-wrapper">
-        In terms of game development, I decided to drop or at least put my Show Off game on hold. I was getting quite frustrated working on it and it became a lot less enjoyable to work on. Someone else released a very similar game to what I had envisioned which was a little demoralizing. I can see myself picking it back up one day when I have more experience working with the Godot engine and 3D in general, but for now it is sidelined. I am working on a new project with a friend that we intend on releasing on Steam at some point. I might post some stuff about it at some point, but for now I’m going to leave it at that.
+        I did have to leave my job at Itron as I wasn’t able to continue working remotely. It was tough to say goodbye to all my coworkers that I had gotten to know, since I had only recently started there late last year, but it was the right decision. I learned a lot working there and would definitely recommend it to anyone in the Spokane/Liberty Lake area looking for a tech related job in a great community environment. This also means that I’m back in the market for a job. So if you know of any software engineering positions (or related fields) that need filling, don’t be shy to reach out. As of writing this on April 23rd, I have applied to just over 200 jobs. Hopefully all the time applying to jobs starts to bear fruit or I might have to get creative.
     </p>
     <p class="paragraph-wrapper">
         Here’s some more cat pictures. Enjoy.
