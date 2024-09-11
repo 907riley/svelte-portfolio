@@ -1,5 +1,5 @@
 <div>
     <div class="content-wrapper">
-        <img src='/Resume_Sikes-1.png' alt="My resume as of April 24th, 2024"/>
+        <img src='/Sikes_Resume-1.png' alt="My resume as of September 9th, 2024"/>
     </div>
 </div>

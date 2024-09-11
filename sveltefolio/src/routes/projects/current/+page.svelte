@@ -1,12 +1,19 @@
 <main>
     <div class="content-wrapper">
         <div class="date-wrapper">
-            April 24, 2024
+            September 9th, 2024
         </div>
         <div class="meat-wrapper">
-            <p class="paragraph-wrapper">
-                Stay tuned for updates on a new project I'm working on with a friend! We're close to being at a good point to start taking screenshots to share.
-            </p>
+            <div class="link-wrapper">
+                <a href='https://gllamagames.com/'>
+                    <div class="images-wrapper">
+                        <img src='/upstream-keyart.jpg' alt='upstream game cover art'/>
+                    </div>
+                    <div>
+                        Check me out!
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 </main>
@@ -23,7 +30,21 @@
     }
 
     .meat-wrapper > div {
-        height: 1rem;
+        // height: 1rem;
+        display: flex;
+        margin: auto;
+    }
+    
+    .images-wrapper {
+        max-width: 15rem;
     }
 
+    a {
+        display: flex;
+        flex-direction: column;
+        
+        div {
+            margin: auto;
+        }
+    }
 </style>
